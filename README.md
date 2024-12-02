@@ -36,4 +36,4 @@ This project uses the **TMDB Movie Dataset**. It contains two CSV files:
 3. Download the dataset and place the [tmdb_credits.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_credits.csv) and [tmdb_movies.csv](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download&select=tmdb_5000_movies.csv) files in the datasets/ directory.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
