@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Introduction
-This project implements a **Content-Based Movie Recommendation System** using Python and machine learning techniques. The recommendation engine suggests movies to users based on the metadata of the input movie, such as cast, crew, genres, and keywords.
+This project implements a **Content-Based Movie Recommendation System** using Python and machine learning techniques. The recommendation engine suggests movies to users based on the metadata of the movie, such as cast, crew, genres, and keywords.
 
 ### Features
 - **Content-Based Filtering**: Recommends movies similar to the input movie based on metadata features.
